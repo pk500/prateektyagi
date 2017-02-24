@@ -1,0 +1,217 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgba(152, 195, 172, 0.43);
+}
+
+
+/*
+
+.navul div {
+    list-style: none;
+    float: left;
+    padding: 9px;
+    margin-top: -10px;
+    height: 40px;
+    margin-right: 156px;
+    text-align: center;
+    word-wrap: normal;
+    display: inline;
+    ;
+}*/
+
+.navul {
+    width: 980px;
+    position: absolute;
+    top: 0px;
+    height: 81px;
+    left: 0px;
+}
+
+.navu2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.navu3 {}
+
+.navu4 {
+    left: 282px;
+    width: 839px;
+    position: absolute;
+    top: 23px;
+    height: 35px;
+}
+
+.navu5 {
+    display: inline-block;
+    text-align: center;
+    overflow: visible;
+    height: 35px;
+}
+
+.navu5 div {
+    display: inherit;
+    color: grey;
+    width: 158px;
+    height: 35px;
+    position: relative;
+    box-sizing: border-box;
+    overflow: visible;
+}
+
+.navu6:hover {
+    border: 2px solid black;
+}
+
+
+/*
+.navul div:hover {
+    display: inline;
+    border: 2px solid black;
+    width: 150px;
+    height: 40px;
+    margin-right: 155px;
+    transition: 2s;
+}*/
+
+.nav-item {
+    padding-right: 159px;
+}
+
+.nav {
+    margin-left: 200px;
+}
+
+a:focus, a:hover {
+    color: #35aaf7;
+    text-decoration: underline;
+}
+
+a {
+    color: #464646;
+    text-decoration: none;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 20px 20px;
+}
+
+.section1 {
+    background-image: url(../images/Elegant_Background-1.jpg);
+    width: 100%;
+    height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.coll-sm-6 {
+    position: relative;
+}
+
+.section2 {
+    background-image: url(../images/Elegant_Background-14.jpg);
+    width: 50%;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section3 {
+    background-image: url(../images/Elegant_Background-15.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 0px;
+}
+
+.section4 {
+    background-image: url(../images/Elegant_Background-16.jpg);
+    width: 100%;
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section5 {
+    background-image: url(../images/Elegant_Background-17.jpg);
+    width: 50%;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#side-follow {
+    position: fixed;
+    margin-top: 130px;
+    margin-left: 50px;
+    z-index: 1;
+}
+
+.gotop {
+    font-size: 60px;
+    color: white;
+    top: 15px;
+    text-decoration: none;
+}
+
+.gotop:hover {
+    color: rgba(0, 87, 255, 0.93);
+    transition: 0.5s;
+    transform: scale(2, 2);
+    text-decoration: none;
+}
+
+#side-follow li {
+    padding-bottom: 15px;
+    list-style: none;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    font-size: 30px;
+}
+
+#side-follow li :hover {
+    color: rgb(205, 74, 0);
+    transition: 0.5s;
+    transform: scale(2, 2);
+}
+
+.ico {
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+.ico:hover {
+    color: red;
+}
+
+.ico:focus {
+    color: red;
+}
+
+footer {
+    background-color: rgb(38, 38, 38);
+    height: 200px;
+}
+
+.rowimg {
+    list-style: none;
+    float: left;
+    padding-right: 0px;
+    padding-left: 0px;
+}
