@@ -45,6 +45,18 @@ a {
     margin-left: 54;
     font-size: 30pxpx;
 }
+.about_hed{
+     font-family: "Times New Roman", Times, serif;
+    font-size: 35px;
+    color: #161617;
+        margin: 68px 0px 0px 97px;
+    
+    
+}
+.form-control{
+       
+    border: 1px solid rgba(0, 57, 251, 0.55);
+}
 .num1{
     font-family: "Times New Roman", Times, serif;
     text-transform: uppercase;
@@ -54,7 +66,7 @@ a {
     margin-top:65px;
     text-align:center;
     font-family: "Times New Roman", Times, serif;
-    font-size: 50px;
+    font-size: 44px;
 }
 .section1 {
     background-image: url(../images/JOY.jpg);
@@ -70,7 +82,7 @@ a {
 .coll-sm-6 {
     position: relative;
   
-    width: 52.4%;
+    width: 100.4%;
     min-height: 0px;
 }
 .col-sm-6{
